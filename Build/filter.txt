@@ -1,0 +1,4 @@
+autopackage
+
+include ^SWIGRuntime/(.*)$
+rewrite ^SWIGRuntime/(.*)$ protobuild/Windows/SWIGRuntime/$1

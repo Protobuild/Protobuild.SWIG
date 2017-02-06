@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Name>Protobuild.SWIG</Name>
+  <Authors>SWIG Developers</Authors>
+  <Description>A bundled version of SWIG that is used by Protobuild when generating C# bindings for C++ projects.</Description>
+  <LicenseUrl>http://www.swig.org/legal.html</LicenseUrl>
+  <ProjectUrl>http://www.swig.org/</ProjectUrl>
+  <IconUrl>http://www.swig.org/images/swig17.png</IconUrl>
+  <GitRepositoryUrl>https://github.com/Protobuild/Protobuild.SWIG</GitRepositoryUrl>
+  <DefaultAction>resync</DefaultAction>
+  <GenerateNuGetRepositories>true</GenerateNuGetRepositories>
+</Module>
